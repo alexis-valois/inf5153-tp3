@@ -1,0 +1,15 @@
+Voici comment joueur une partie :
+
+1. Répondre au dialogue demandant le niveau de difficulté souhaité (il est possible de modifier cette valeur en cours d'exécution en choisissant le menu Partie / Difficulté
+2. Placer ses 5 navires. Pour ce faire : sélectionner un navire dans le menu déroulant. Sélectioner une ligne, une colonne et une direction puis apuuyer sur "Placer Navire". Répeter l'opération pour les 5 navires.
+3. Appuyer sur "Débuter partie"
+4. Lors de notre tour, cliquer sur la grille du joueur opposant pour effectuer une lancer. Ce-dernier contre-attaque immédiatement.
+
+Pour visualiser une partie :
+
+1. Terminer une partie.
+2. Appuyer sur Partie / Visualiser. Les différents coups s'afficheront à l'écran séquentiellement.
+
+Pour sauvegarder / charger une partie XML : Appuyer sur Export/Import / Charger ou Sauvegarder, selon le cas.
+
+Pour quitter une partie, faire File / Fermer.
